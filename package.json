@@ -1,5 +1,5 @@
 {
-  "name": "loan-applicatio-status",
+  "name": "loan-application-status",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,12 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "autoprefixer": "latest",
+    "daisyui": "^3.8.2",
     "postcss": "latest",
     "tailwindcss": "latest"
   }
